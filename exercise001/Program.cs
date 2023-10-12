@@ -10,3 +10,6 @@ while (i<= number)
     System.Console.Write(i+ "");
     i++;
 }
+// libo
+// for (int i = -number, i <= number, i++);
+// System.Console.Write(i+ "");
